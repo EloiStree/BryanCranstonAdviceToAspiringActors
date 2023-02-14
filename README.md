@@ -4,7 +4,7 @@ This is one of the best tip I heard in my life. I am afraid that Youtube remove 
 
 [![image](https://user-images.githubusercontent.com/20149493/218703855-09313df3-74e1-498d-8c31-2f3727f942fd.png)](https://youtu.be/v1WiCGq-PcY)
 Source: https://youtu.be/v1WiCGq-PcY
-Download backup video: [Downlaod](https://github.com/EloiStree/BryanCranstonAdviceToAspiringActors/blob/main/BryanCranstonAdviceToAspiringActors.mp4)
+Download backup video: [Download](https://github.com/EloiStree/BryanCranstonAdviceToAspiringActors/blob/main/BryanCranstonAdviceToAspiringActors.mp4)
 
 Text extracted from subtitle and redesign by Chat GPT:
 ![image](https://user-images.githubusercontent.com/20149493/218703948-8a68eb59-242a-46cb-af39-e4043e1a6b98.png)
